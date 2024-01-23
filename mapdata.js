@@ -84,49 +84,49 @@ var simplemaps_continentmap_mapdata={
       description: "default",
       color: "#3366FF",
       hover_color: "#1c388c",
-      url: "default"
+      url: "./NA.html"
     },
     EU: {
       name: "Europe",
       description: "default",
       color: "#FF3366",
       hover_color: "#c0264d",
-      url: "default"
+      url: "./EU.html"
     },
     AF: {
       name: "Africa",
       description: "default",
       color: "#33FF66",
       hover_color: "#1a8535",
-      url: "default"
+      url: "./africa.html"
     },
     NS: {
       name: "Russia",
       description: "default",
       color: "#33FFCC",
       hover_color: "#23b28e",
-      url: "default"
+      url: "./RU.html"
     },
     SS: {
       name: "South Asia",
       description: "default",
       color: "#FF6633",
       hover_color: "#ac4422",
-      url: "default"
+      url: "./SEA.html"
     },
     ME: {
       name: "Middle East",
       description: "default",
       color: "#FFCC33",
       hover_color: "#bb9525",
-      url: "default"
+      url: "./ME.html"
     },
     OC: {
       name: "Oceania",
       description: "default",
       color: "#FF33CC",
       hover_color: "#b1238d",
-      url: "default"
+      url: "./OCE.html"
     }
   },
   locations: {
@@ -136,7 +136,7 @@ var simplemaps_continentmap_mapdata={
       lng: -9.11101,
       description: "default",
       color: "#4287f5",
-      url: "default",
+      url: "./waterford.html",
       size: "default"
     },
     
