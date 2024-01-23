@@ -36,7 +36,7 @@ var simplemaps_continentmap_mapdata={
     label_size: 22,
     label_font: "Arial",
     hide_labels: "no",
-    textAlign: 'left',
+    textAlign:'left',
 
 		//Zoom settings
 		manual_zoom: "no",
@@ -61,8 +61,7 @@ var simplemaps_continentmap_mapdata={
     popup_corners: 5,
     popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
     popup_nocss: "no",
-    popup_
-
+    
 		//Advanced settings
 		div: "map",
     auto_load: "yes",
