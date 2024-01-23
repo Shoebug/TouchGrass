@@ -5,6 +5,7 @@ var simplemaps_continentmap_mapdata={
     background_color: "#FFFFFF",
     background_transparent: "yes",
     popups: "detect",
+
     
 		//State defaults
 		state_description: "State description",
@@ -36,8 +37,7 @@ var simplemaps_continentmap_mapdata={
     label_size: 22,
     label_font: "Arial",
     hide_labels: "no",
-    textAlign:'left',
-
+  
 		//Zoom settings
 		manual_zoom: "no",
     back_image: "no",
@@ -135,7 +135,7 @@ var simplemaps_continentmap_mapdata={
       name: "Waterford City, Ireland",
       lat: 52.2593,
       lng: -9.11101,
-      description: "Waterford is perfect for families. Ireland's oldest city, it has a lot of historic and beautiful elements. Waterford is known for its safety and cleanliness.",
+      description: <script><p>"Waterford is perfect for families. Ireland's oldest city, it has a lot of historic and beautiful elements. Waterford is known for its safety and cleanliness."</p></script>,
       color: "rgba(255,255,255,0)",
       url: "./waterford.html",
       size: "default"
