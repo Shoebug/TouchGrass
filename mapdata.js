@@ -75,58 +75,58 @@ var simplemaps_continentmap_mapdata={
     SA: {
       name: "South America",
       description: "default",
-      color: "#CC33FF",
-      hover_color: "#751d92",
+      color: "#756845",
+      hover_color: "#574b2c",
       url: "./SA.html"
     },
     NA: {
       name: "North America",
       description: "default",
-      color: "#3366FF",
-      hover_color: "#1c388c",
-      url: "default"
+      color: "#697545",
+      hover_color: "#4f5431",
+      url: "./NA.html"
     },
     EU: {
       name: "Europe",
       description: "default",
-      color: "#FF3366",
-      hover_color: "#c0264d",
-      url: "default"
+      color: "#757145",
+      hover_color: "#494a30",
+      url: "./EU.html"
     },
     AF: {
       name: "Africa",
       description: "default",
-      color: "#33FF66",
-      hover_color: "#1a8535",
-      url: "default"
+      color: "#bb9473",
+      hover_color: "#a67b56",
+      url: "./africa.html"
     },
     NS: {
       name: "Russia",
       description: "default",
-      color: "#33FFCC",
-      hover_color: "#23b28e",
-      url: "default"
+      color: "#6d6344",
+      hover_color: "#494a30",
+      url: "./RU.html"
     },
     SS: {
       name: "South Asia",
       description: "default",
-      color: "#FF6633",
-      hover_color: "#ac4422",
-      url: "default"
+      color: "#b08351",
+      hover_color: "#7a5f40",
+      url: "./SEA.html"
     },
     ME: {
       name: "Middle East",
       description: "default",
-      color: "#FFCC33",
-      hover_color: "#bb9525",
-      url: "default"
+      color: "#997246",
+      hover_color: "#7a6537",
+      url: "./ME.html"
     },
     OC: {
       name: "Oceania",
       description: "default",
-      color: "#FF33CC",
-      hover_color: "#b1238d",
-      url: "default"
+      color: "#cc814b",
+      hover_color: "#99623a",
+      url: "./OCE.html"
     }
   },
   locations: {
@@ -135,8 +135,8 @@ var simplemaps_continentmap_mapdata={
       lat: 52.2593,
       lng: -9.11101,
       description: "default",
-      color: "#4287f5",
-      url: "default",
+      color: "rgba(255,255,255,0)",
+      url: "./waterford.html",
       size: "default"
     },
     
