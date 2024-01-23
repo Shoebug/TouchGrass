@@ -77,7 +77,7 @@ var simplemaps_continentmap_mapdata={
       description: "default",
       color: "#CC33FF",
       hover_color: "#751d92",
-      url: "default"
+      url: "./SA.html"
     },
     NA: {
       name: "North America",
