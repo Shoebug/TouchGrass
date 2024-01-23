@@ -7,7 +7,7 @@ var simplemaps_continentmap_mapdata={
     popups: "detect",
     
 		//State defaults
-		state_description: "State description",
+		state_description: "Statte description",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "./index.html",
