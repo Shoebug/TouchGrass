@@ -36,7 +36,8 @@ var simplemaps_continentmap_mapdata={
     label_size: 22,
     label_font: "Arial",
     hide_labels: "no",
-   
+    textAlign:'left',
+
 		//Zoom settings
 		manual_zoom: "no",
     back_image: "no",
@@ -55,7 +56,7 @@ var simplemaps_continentmap_mapdata={
     
 		//Popup settings
 		popup_color: "white",
-    popup_opacity: 0.9,
+    popup_opacity: 0.8,
     popup_shadow: 1,
     popup_corners: 5,
     popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
@@ -74,56 +75,56 @@ var simplemaps_continentmap_mapdata={
   state_specific: {
     SA: {
       name: "South America",
-      description: "default",
+      description: "South America is ideal for a real experience. With amazing destinations such as The Darien it is a perfect holiday for someone who really wants to kill themselves.",
       color: "#756845",
       hover_color: "#574b2c",
       url: "./SA.html"
     },
     NA: {
       name: "North America",
-      description: "default",
+      description: "America is famous for its safety and cuisine. This country is perfect for families travelling as it features many amusement parks and gun shooting ranges.",
       color: "#697545",
       hover_color: "#4f5431",
       url: "./NA.html"
     },
     EU: {
       name: "Europe",
-      description: "default",
+      description: "Rich with culture and history, Europe is the second smallest continent known for its diverse culture and it’s perfect for any kind of traveller. From vibrant countrysides to bustling cities, it's perfect for everyone.",
       color: "#757145",
       hover_color: "#494a30",
       url: "./EU.html"
     },
     AF: {
       name: "Africa",
-      description: "default",
+      description: "Full of nature and wildlife, Africa is perfect for travellers looking for a raw and real experience.",
       color: "#bb9473",
       hover_color: "#a67b56",
       url: "./africa.html"
     },
     NS: {
       name: "Russia",
-      description: "default",
+      description: "With its huge size it brings a lot of different cultures. Russia is often overlooked as a holiday destination but with its amazing weather it is perfect for a beachy holiday.",
       color: "#6d6344",
       hover_color: "#494a30",
       url: "./RU.html"
     },
     SS: {
       name: "South Asia",
-      description: "default",
+      description: "Want to feel like you’re living in 2050 but the quality of life is the same as a century ago? South Asia is perfect for a futuristic dystopian experience.",
       color: "#b08351",
       hover_color: "#7a5f40",
       url: "./SEA.html"
     },
     ME: {
       name: "Middle East",
-      description: "default",
+      description: "The Middle East is a diverse area. From wars and conflicts to skyscrapers that touch the clouds, it is great for travellers who want to feel like royalty and be marginalised at the same time.",
       color: "#997246",
       hover_color: "#7a6537",
       url: "./ME.html"
     },
     OC: {
       name: "Oceania",
-      description: "default",
+      description: "It's not real.",
       color: "#cc814b",
       hover_color: "#99623a",
       url: "./OCE.html"
@@ -134,7 +135,7 @@ var simplemaps_continentmap_mapdata={
       name: "Waterford City, Ireland",
       lat: 52.2593,
       lng: -9.11101,
-      description: "default",
+      description: "Waterford is perfect for families. Ireland's oldest city, it has a lot of historic and beautiful elements. Waterford is known for its safety and cleanliness.",
       color: "rgba(255,255,255,0)",
       url: "./waterford.html",
       size: "default"
