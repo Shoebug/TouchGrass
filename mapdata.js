@@ -75,7 +75,7 @@ var simplemaps_continentmap_mapdata={
   state_specific: {
     SA: {
       name: "South America",
-      description: "South America is ideal for a real experience. With amazing destinations such as The Darien it is a perfect holiday for someone who really wants to kill themselves.",
+      description: "South America is ideal for a real experience. With amazing destinations such as The Darien it is a perfect holiday for someone who really wants to explore themselves.",
       color: "#756845",
       hover_color: "#574b2c",
       url: "./SA.html"
